@@ -1,0 +1,41 @@
+
+        body {
+            background-color: black;
+        }
+        h1{
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            font-style: italic;
+            color: beige;
+            padding: auto;
+        }
+
+        .boarder{
+            padding-top: 10%;
+            margin: auto;
+            border-start-end-radius: ;
+        }
+
+        .auth-container {
+            max-width: 800px;
+            margin: 0px auto;
+            background-color: #f1f3ee;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(186, 108, 108, 0.1);
+            border: 2px solid #3498db; 
+        }
+
+        .auth-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .login-form {
+            display: none; 
+        }
+
+        .row-end {
+            margin-top: 20px;
+        }
+    
